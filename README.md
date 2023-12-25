@@ -1,7 +1,7 @@
 # Olá, eu sou Luiz Guilherme Mendonça dos Reis 👋
 
 ## 😎 About.me
-Sou um desenvolvedor de software full-stack. Formado em Sistemas da Informação pela UNISUL e já fiz intercambio no ISCTE em Portugal, sou fascinado por desenvolvimento pessoal e pela flexibilidade e o conhecimento abrangente que o desenvolvimento full-stack oferece, porem o desenvolvimento front-end sempre terá um espaço especial em meu coração.
+Sou um desenvolvedor de software full-stack. Formado em Sistemas da Informação pela UNISUL e já fiz intercambio no ISCTE em Portugal, sou fascinado por desenvolvimento pessoal e pela flexibilidade que o desenvolvimento full-stack oferece, porem o desenvolvimento front-end sempre terá um espaço especial em meu coração.
 
 ## 🛠️ Tecnologias e Ferramentas
 <div style-"display: inline_block">
